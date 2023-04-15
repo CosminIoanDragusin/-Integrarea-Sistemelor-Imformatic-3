@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\bin\Debug\net5.0\Ants.exe
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\bin\Debug\net5.0\Ants.deps.json
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\bin\Debug\net5.0\Ants.runtimeconfig.json
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\bin\Debug\net5.0\Ants.runtimeconfig.dev.json
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\bin\Debug\net5.0\Ants.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\bin\Debug\net5.0\ref\Ants.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\bin\Debug\net5.0\Ants.pdb
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.AssemblyInfo.cs
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\ref\Ants.dll
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.pdb
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator4\Ants\Ants\obj\Debug\net5.0\Ants.genruntimeconfig.cache
